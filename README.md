@@ -104,6 +104,6 @@ Flavor Fusion uses NextAuth.js for authentication. You can configure authenticat
 
 ## Author
 
-- **Soham**
+- **dexter**
   - [GitHub](https://github.com/soham-basak)
   - [Linkedin](https://www.linkedin.com/in/soham-basak-344746225/)
